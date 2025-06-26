@@ -1,0 +1,22 @@
+{
+ "name": "junaid",
+ "email": "junaid@gmail.com",
+ "password":"abc.123",
+"reenterpassword":"abc.123",
+"gender":"male"
+}
+
+
+{
+
+ "email": "junaid@gmail.com",
+ "password":"abc.123"
+
+}
+
+
+{
+
+ "userquery": "I want to ask about chocolcate icecream"
+
+}
